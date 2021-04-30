@@ -7,7 +7,7 @@
 
 I'm [Guimarães Mahota](https://profile.codersrank.io/user/gmahota) from Mozambique and I ❤ creating software solutions to help people achieve more results, then they can have more time to enjoy the life. 😍🧘🏿‍
 
-- ⚒ I'm corrently working on my [Next.Js Create Order-Invoice System](https://github.com/gmahota/nextjs-invoice-order) 
+- ⚒ I'm corrently working on my [Survey System](https://github.com/Aguns/agnus-survey) 
 - 🌱 I often work with .NET Core (C#), NodeJs, NextJs , ReactJs, VueJs
 - 💬 Ask me about anything
 - 📫 How to reach me: guimaraesmahota@gmail.com 
