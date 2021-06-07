@@ -8,8 +8,6 @@
 
 -->
 
-🏿‍
-
 - ⚒ I'm corrently working on my [Survey System](https://github.com/Aguns/agnus-survey) 
 - 🌱 I often work with .NET Core (C#), NodeJs, NextJs , ReactJs, VueJs
 - 💬 Ask me about anything
