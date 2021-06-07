@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guimarães Mahota</h1>
-<h3 align="center">I'm a FullStack Developer</h3>
+<h3 align="center">I'm [Guimarães Mahota](https://profile.codersrank.io/user/gmahota) from Mozambique and I ❤ creating software solutions to help people achieve more results, then they can have more time to enjoy the life. 😍🧘</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmahota" alt="gmahota" /> </p>
 
 <!--
@@ -8,7 +8,7 @@
 
 -->
 
-I'm [Guimarães Mahota](https://profile.codersrank.io/user/gmahota) from Mozambique and I ❤ creating software solutions to help people achieve more results, then they can have more time to enjoy the life. 😍🧘🏿‍
+🏿‍
 
 - ⚒ I'm corrently working on my [Survey System](https://github.com/Aguns/agnus-survey) 
 - 🌱 I often work with .NET Core (C#), NodeJs, NextJs , ReactJs, VueJs
