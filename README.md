@@ -1,4 +1,7 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=gmahota&style=flat-square)
+
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guimarães Mahota 👋</h1>
+<h3 align="center">I'm a FullStack Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gmahota" alt="gmahota" /> </p>
 
 <!--
 **gmahota/gmahota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
