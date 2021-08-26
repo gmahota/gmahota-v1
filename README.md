@@ -8,7 +8,7 @@
 
 -->
 
-- ⚒ I'm corrently working on my [Survey System](https://github.com/Aguns/agnus-survey) 
+- ⚒ I'm corrently working on my [Payment's System](https://github.com/gmahota/payments) 
 - 🌱 I often work with .NET Core (C#), NodeJs, NextJs , ReactJs, VueJs
 - 💬 Ask me about anything
 - 📫 How to reach me: guimaraesmahota@gmail.com 
